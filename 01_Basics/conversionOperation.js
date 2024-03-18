@@ -33,8 +33,14 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // "" => false
 // "hitesh" => true
 
-let someNumber = null
+// let someNumber = null
 
-let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let stringNumber = String(someNumber)
+// // console.log(stringNumber);
+// //console.log(typeof stringNumber);
+
+//-------> OPERATION <--------
+
+ console.log(3 + 5* 8 % 3);
+// increment prefix postfix operator
+ // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
